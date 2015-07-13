@@ -1,5 +1,5 @@
-import lammpser
-from lammpser import Vector3, Quaternion
+import topologyer
+from topologyer import Vector3, Quaternion
 import math
 
 # create an empty system
